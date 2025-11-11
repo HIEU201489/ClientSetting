@@ -147,5 +147,22 @@
 				<string>com.netflix.Netflix</string>
 				<string>com.google.ios.youtube</string>
 				<string>com.bigo.live</string>
+</array>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Giáº£m lag vÃ  hao pin ðŸª«. Cáº£m Æ¡n Ä‘Ã£ sá»­ dá»¥ng dá»‹ch vá»¥ cá»§a tÃ´i.</string>
+	<key>PayloadDisplayName</key>
+	<string>VDD Client âœ…</string>
+	<key>PayloadIdentifier</key>
+	<string>com.systemoptimizer.restrictiononly.51fccc51-f370-4ab7-8481-a9fbf395b908</string>
+	<key>PayloadOrganization</key>
+	<string>System Optimizer</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>83a09aba-768f-4676-abc6-e3012a3983dc</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
 </dict>
 </plist>
